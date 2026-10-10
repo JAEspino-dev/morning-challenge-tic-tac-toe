@@ -15,11 +15,8 @@ Use this program if you want to convert clients' payments to USD!
 # 🔨 Built With
 * HTML5 – structure    
 * CSS3 – responsive design and background   
-* JavaScript - fetch information from backend   
+* JavaScript - Game Logic
 
 # 🧠 What I Learned  
-* How to work with APIs  
-* How to use fetch()   
-* How to work with JSON data  
-* How to manipulate the DOM  
+* How to create game logic 
 * How to handle errors  

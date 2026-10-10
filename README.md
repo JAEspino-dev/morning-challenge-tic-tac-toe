@@ -6,6 +6,9 @@ Use this program if you want to convert clients' payments to USD!
 2. Play game
 3. See who wins
 
+# 📸 Images
+<img width="1657" height="1199" alt="Screenshot 2026-10-09 at 9 50 31 PM" src="https://github.com/user-attachments/assets/6d10de69-a7ce-4df2-87b0-a6aa67b025a5" />
+
 # ✨ Features
 * Responsive design for desktop and mobile     
 
